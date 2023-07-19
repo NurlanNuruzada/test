@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Persistence.deps.json
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Persistence.dll
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Persistence.pdb
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Aplication.dll
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Domain.dll
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Aplication.pdb
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\bin\Debug\net6.0\Fiorella.Domain.pdb
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.csproj.CopyComplete
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.dll
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\refint\Fiorella.Persistence.dll
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\Fiorella.Persistence.pdb
+C:\Users\Admin\Desktop\FiorellaApp\Fiorella\src\Infastructure\Fiorella.Persistence\obj\Debug\net6.0\ref\Fiorella.Persistence.dll
