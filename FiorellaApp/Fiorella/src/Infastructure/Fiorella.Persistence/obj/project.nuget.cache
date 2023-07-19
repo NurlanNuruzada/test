@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPtl5fCquOZaxahOcWk/UAneftvPA99686xwZgRJXP7v4FFXAkgy5C+NN6/bvanMTHtc4w064AFdQ8opdtvrAg==",
+  "dgSpecHash": "OEaxRYhS/4WFucaMqsTaHAe7uA6h1sSOLIiBQoyGUz/cGE2+UfjubQRqrWmm9bNaYiIMViBe0EMXJDFMEEH7dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Infastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Infastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpkBUYTjXfy5HHDserDgMiDAyFnS4wgPxc4OpClqD67XsGDR5C3i/eIOnn1qv9IHDTPODMydwSA8w1WFghKW9w==",
+  "dgSpecHash": "jPXAI8VtllyTjc9ChtGLsyryZSV/9kxEBX4+3ptvuSpJsJUE/GhaYF32HyJZooOodsTa09zyjbu4zxjWe4EQEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

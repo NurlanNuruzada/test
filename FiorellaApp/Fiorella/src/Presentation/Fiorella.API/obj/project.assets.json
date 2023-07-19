@@ -874,7 +874,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Fiorella.Domain": "1.0.0"
+          "Fiorella.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.20"
         },
         "compile": {
           "bin/placeholder/Fiorella.Aplication.dll": {}
@@ -2283,11 +2284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
       "projectName": "Fiorella.API",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Presentation\\Fiorella.API\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Presentation\\Fiorella.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2305,8 +2306,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Infastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\test ffolder\\FiorellaApp\\Fiorella\\src\\Infastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj"
+            "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Infastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Infastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj"
             }
           }
         }
