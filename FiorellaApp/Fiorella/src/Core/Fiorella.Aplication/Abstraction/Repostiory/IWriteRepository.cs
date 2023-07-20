@@ -11,9 +11,9 @@ namespace Fiorella.Aplication.Abstraction.Repostiory
     {
         Task addAsync(T entity);
         Task addRangeAsync(ICollection<T> enitites);
-        void updateAsync(T entity);
-        void deleteAsync(T entity);
-        Task RemoveAsync(ICollection<T> enitites);
+        void update(T entity);
+        void remove(T entity);
+         void removeRange(ICollection<T> enitites);
         Task SaveChangesAsync();
     }
 }
