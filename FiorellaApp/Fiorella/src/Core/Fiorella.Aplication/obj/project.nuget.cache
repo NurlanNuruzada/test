@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NsXQk+OoVyDXYWJmcWrVbnMlncetQfrg7v/sNlvzanzAjJG8iZVUeRxUBh1wujpK69yPrkoi2ujED1VaPNC2kA==",
+  "dgSpecHash": "PGUxP5hqCS/mCr/erdClGCpMT72LW+G6cLdzweP6HajF1ChsRSM75yyRvR5u/YKj4PZzRbhGwUe62JCb1wbn8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.20\\microsoft.entityframeworkcore.analyzers.6.0.20.nupkg.sha512",

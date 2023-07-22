@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj": {
+    "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj",
         "projectName": "Fiorella.Aplication",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\Fiorella.Aplication.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj"
               }
             }
           }
@@ -44,6 +44,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.20, )"
@@ -69,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
         "projectName": "Fiorella.Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\test\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\FiorellaApp\\FiorellaApp\\Fiorella\\src\\Core\\Fiorella.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
